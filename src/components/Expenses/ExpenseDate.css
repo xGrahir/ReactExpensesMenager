@@ -1,0 +1,9 @@
+.expense-item__date {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-size: 1.8rem;
+    background-color: rgb(55, 54, 54);
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+}

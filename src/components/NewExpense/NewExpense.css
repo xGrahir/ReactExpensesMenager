@@ -1,0 +1,9 @@
+.new-expense {
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+    padding: 0.5rem;
+    min-width: 500px;
+    border-radius: 8px;
+    background-color: rgb(125, 91, 133);
+}
